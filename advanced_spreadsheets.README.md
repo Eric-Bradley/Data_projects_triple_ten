@@ -3,12 +3,14 @@
 <p> The purpose of this projects was to analyze the vacation rental market in the Manhatta borough of New York city to narrow down the types of properties that are good investments. </p>
 <h3> What did I do? </h3>
 <ol>
+  
   <li> First I organized the data 
     <ul>
       <li> Froze appropriate rows </li>
       <li> Resized column widths and wrapped text where it was appropriate </li>
       <li> Filtered out listings that were irrelevant to the analysis </li>
     </ul>
+    
   <li> Determined which type of properties should be targeted
     <ul>
       <li> Created a new column called neighborhood clean to standardize the format of the text to ensure proper analysis </li>
@@ -16,9 +18,27 @@
         <ul>
           <li> Determined which neighborhoods had the most reviews within the last 12 months and focused on those neighborhoods for the rest of the analysis </li>
         </ul>
-      <li> Determined what size property were most popular by the number of bedrooms </li>
+      <li> Determined what size properties were most popular by the number of bedrooms </li>
       </li>
     </ul>
   </li>
+  
+  <li> Calculated the average occupancy for each listing by creating a pivot table </li>
+    
+  <li> Estimated revenue for each investment property </li>
+    <ul> 
+      <li> Filtered only properties that an investor might purchase
+        <ul>
+          <li> Superhosts or properties with high review ratings </li>
+          <li> Properties that have been very actively rented over that previous 12 months </li>
+          <li> Filtered out super luxury and extremely low priced rentals </li>
+        </ul>
+      </li>
+      <li> Chose the top 5 neighborhoods and cooresponding property size </li>
+      <li> Used a pivot table to calculate occupancy rates </li>
+
+    <li> Lastly I formated all my documentation in a polished a professional manner </li>
+      
+    </ul>
   </li>
 </ol>
