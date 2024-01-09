@@ -36,9 +36,7 @@
       </li>
       <li> Chose the top 5 neighborhoods and cooresponding property size </li>
       <li> Used a pivot table to calculate occupancy rates </li>
-
-    <li> Lastly I formated all my documentation in a polished a professional manner </li>
-      
     </ul>
+    <li> Lastly I formated all my documentation in a polished a professional manner </li>
   </li>
 </ol>
