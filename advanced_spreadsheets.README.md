@@ -1,6 +1,8 @@
 <h1> Advanced Spreadsheets Project </h1>
+<a href = "https://docs.google.com/spreadsheets/d/1rpTut3J8o61DEW1LfpLXX5VHeHx8aPrmD3RIWNyBwoE/edit?usp=sharing">Link to project</a>
 <h3> Objective and Goals </h3>
 <p> The purpose of this projects was to analyze the vacation rental market in the Manhatta borough of New York city to narrow down the types of properties that are good investments. </p>
+
 <h3> What did I do? </h3>
 <ol>
   
@@ -40,3 +42,12 @@
     <li> Lastly I formated all my documentation in a polished a professional manner </li>
   </li>
 </ol>
+
+<!-- <li> ADD PICTURES OF PROJECT </li> -->
+
+<h3> Conclusion </h3>
+<p> I determined that 1 bedroom apartments in the lower east side are the most promising investment. </p>
+
+
+
+
