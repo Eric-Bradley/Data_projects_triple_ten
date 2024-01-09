@@ -9,8 +9,9 @@
       <li> filtered out all listings that were not listed by a "superhost" </li>
       <li> standardized the format of the neighborhoods column and added a new column called "neighborhood_clean" </li>
       <li> filtered the price to be between $99 and $500 per night to ensure a positive ROI and consistent occupancy </li>
-      <li>  </li>
-      <li>  </li>
+      <li> minimum nights less than 8 to ensure the listings were short term rentals </li>
+      <li> number of reviews greater than 48 within the last 12 months as an extra measure to filter out listings that were not profitable </li>
+      <li> reviews average greater than 4.8 </li>
     </ul>
   </li>
 </ol>
