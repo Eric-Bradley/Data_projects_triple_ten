@@ -30,8 +30,8 @@
 
 
 <h3> Conclusion </h3>
-<p> Via my analysis I found that the conversion rate based on a predictable sequence user interaction with our website is 9.99%. The conversion rate based on an unpredictible user interaction is 10.34%. </p>and
-
+<p> Via my analysis I found that the conversion rate based on a predictable sequence user interaction with our website is 9.99%. The conversion rate based on an unpredictible user interaction is 10.34%. </p>
+<p>and</p>
 <p> User rentention suffers a steep drop after two months. </p>
 
 <-- add pictures -->
