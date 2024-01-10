@@ -12,9 +12,20 @@
         <li> Used formulas to create two new columns in the pivot table; total conversion rates and conversion rates </li>
       </ul>
     </li>
-    
-
-    
+    <li> Prepared data for cohort analysis
+      <ul>
+        <li> Created a new sheet called "purchase_activity" that contained only purchases </li>
+        <li> Calculated first purchase dates </li>
+        <li> Setup monthly data to build and track cohorts </li>
+      </ul>
+    </li>
+    <li> Calculated retention rates
+      <ul>
+        <li> Grouped data into cohorts </li>
+        <li> Calculated overall retention rates </li>
+      </ul>
+    </li>
+    <li> Organized and documented the spreadsheet </li>
   </ol>
 
 
