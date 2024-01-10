@@ -34,8 +34,6 @@
 <p>and</p>
 <p> User rentention suffers a steep drop after two months. </p>
 
-<-- add pictures -->
-
 
 
 
