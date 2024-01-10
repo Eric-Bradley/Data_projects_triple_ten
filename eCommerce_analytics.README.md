@@ -8,7 +8,9 @@
 <h3> What did I do? </h3>
   <ol>
     <li> Built a conversion funnel using a pivot table 
-      <li> Used formulas to create two new columns in the pivot table; total conversion rates and conversion rates </li>
+      <ul>
+        <li> Used formulas to create two new columns in the pivot table; total conversion rates and conversion rates </li>
+      </ul>
     </li>
     
 
