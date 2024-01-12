@@ -17,7 +17,7 @@
       </ul>
     </li>
     <li>
-      Built a <a href="https://public.tableau.com/app/profile/eric.bradley4255/viz/Sprint5-projectwdashboardcomplete/FinalDashboard"> dashboard </a> for monitoring returs
+      Built a <a href="https://public.tableau.com/app/profile/eric.bradley4255/viz/Sprint5-projectwdashboardcomplete/FinalDashboard"> dashboard </a> for monitoring returns
     </li>
     
   </ol>
